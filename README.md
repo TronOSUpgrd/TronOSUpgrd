@@ -1,4 +1,4 @@
-<h1>Hi, I'm LaRon! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm LaRon! <br/><a href="https://github.com/joshmadakor1">Entry Level Secure Infrastructure Specialist </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Security+ for baseline cybersecurity skills</a>, <a href="https://www.youtube.com/c/joshmadakor">End pointmangagement and technical support</a></h1>
 
 <h2>👨‍💻 My CompTIA A + Projects:</h2>
 
