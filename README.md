@@ -6,9 +6,9 @@
   - [Creating an Active Directory](https://github.com/TronOSUpgrd/ActiveDirectoryLab)
 - <b>Use of Command-line Tools (ping, pathping, tracert, chkdsk, sfc, net use, net user, nslookup, and netstat)</b>
   - [Image Analysis Mi](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Use of the Control Panel</b>
-  - [Windows Defender Firewall](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Network and Sharing Center)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Setting up a Cloud-based Security Information and Event Management (SIEM)</b>
+  - [Azure Sentinel](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Honey Pot](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Device Manager](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
