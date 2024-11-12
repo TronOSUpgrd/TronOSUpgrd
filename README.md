@@ -1,8 +1,8 @@
 <h1>Hi, I'm LaRon! <br/><a href="https://github.com/joshmadakor1">Entry Level Secure Infrastructure Specialist </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Security+ for baseline cybersecurity skills</a>, <a href="https://www.youtube.com/c/joshmadakor">End pointmangagement and technical support</a></h1>
 
-<h2>👨‍💻 My CompTIA A + Projects:</h2>
+<h2>👨‍💻 My IT Projects:</h2>
 
-- <b>Microsoft Command-Line Tool Practice (AlgoExpert)</b>
+- <b>Active Directory Home Lab</b>
   - [Creating Files and Directories in CLI](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Use of Command-line Tools (ping, pathping, tracert, chkdsk, sfc, net use, net user, nslookup, and netstat)</b>
   - [Image Analysis Mi](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
