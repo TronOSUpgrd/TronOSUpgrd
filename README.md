@@ -3,7 +3,7 @@
 <h2>👨‍💻 My IT Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Creating Files and Directories in CLI](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating an Active Directory](https://github.com/TronOSUpgrd/ActiveDirectoryLab)
 - <b>Use of Command-line Tools (ping, pathping, tracert, chkdsk, sfc, net use, net user, nslookup, and netstat)</b>
   - [Image Analysis Mi](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Use of the Control Panel</b>
