@@ -12,7 +12,7 @@
   - [Device Manager](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Hardware/Software Projects</b>
-  - [Upgrading RAM for SIEM Lab](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Upgrading RAM for SIEM Lab](https://github.com/TronOSUpgrd/Upgrading-RAM-for-SIEM-Lab/blob/main/README.md)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
