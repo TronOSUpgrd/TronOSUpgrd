@@ -8,9 +8,6 @@
   - [Image Analysis Mi](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Setting up a Cloud-based Security Information and Event Management (SIEM)</b>
   - [Azure Sentinel](https://github.com/TronOSUpgrd/SIEM-Lab)
-  - [Honey Pot](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Device Manager](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Hardware/Software Projects</b>
   - [Upgrading RAM for SIEM Lab](https://github.com/TronOSUpgrd/Upgrading-RAM-for-SIEM-Lab/blob/main/README.md)
 
