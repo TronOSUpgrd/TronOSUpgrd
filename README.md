@@ -18,7 +18,7 @@
     
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DanielRodriguezIT/osTicket-LifeCycle-Examples)
 
-<h2> CompTIA Certifications</h2>
+<h2> 🖥️CompTIA Certifications</h2>
 
 - [Security+](https://www.credly.com/badges/6dbd4c25-3694-48f9-bec6-4e058e395c33)
 - [A+](https://www.credly.com/badges/1bad2df8-ed9d-4af9-a33b-0cb708209f55)
