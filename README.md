@@ -11,6 +11,14 @@
 - <b>Hardware/Software Projects</b>
   - [Upgrading RAM for SIEM Lab](https://github.com/TronOSUpgrd/Upgrading-RAM-for-SIEM-Lab/blob/main/README.md)
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/DanielRodriguezIT/osticket-prereqs)
+    
+  - [osTicket: Post-Installation Configuration](https://github.com/DanielRodriguezIT/osTicketPostConfiguration)
+    
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/DanielRodriguezIT/osTicket-LifeCycle-Examples)
+
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
