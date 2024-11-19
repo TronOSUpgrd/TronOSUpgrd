@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Creating an Active Directory](https://github.com/TronOSUpgrd/ActiveDirectoryLab)
 - <b>Vulnerability Management Lab</b>
-  - [Image Analysis Mi](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Tenable Nessus Essentials](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
 - <b>Setting up a Cloud-based Security Information and Event Management (SIEM)</b>
   - [Azure Sentinel](https://github.com/TronOSUpgrd/SIEM-Lab)
 - <b>Hardware/Software Projects</b>
