@@ -18,10 +18,6 @@
     
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DanielRodriguezIT/osTicket-LifeCycle-Examples)
 
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 <h2> CompTIA Certifications</h2>
 
 - [Security+](https://www.credly.com/badges/6dbd4c25-3694-48f9-bec6-4e058e395c33)
