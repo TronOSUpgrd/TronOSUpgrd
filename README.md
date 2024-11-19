@@ -1,4 +1,4 @@
-<h1>Hi, I'm LaRon! <br/><a href="https://github.com/joshmadakor1">Entry Level Secure Infrastructure Specialist </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Security+ for baseline cybersecurity skills</a>, <a href="https://www.youtube.com/c/joshmadakor">End pointmangagement and technical support</a></h1>
+<h1>Hi, I'm LaRon! <br/><a href="https://github.com/joshmadakor1">Entry Level Secure Infrastructure Specialist </a>, <a href="https://www.linkedin.com/in/laron-strong-a70249178/">Security+ for baseline cybersecurity skills</a>, <a href="https://www.linkedin.com/in/laron-strong-a70249178/">End pointmangagement and technical support</a></h1>
 
 <h2>👨‍💻 My IT Projects:</h2>
 
