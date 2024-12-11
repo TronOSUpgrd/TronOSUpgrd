@@ -15,6 +15,7 @@
 
 - [Security+](https://www.credly.com/badges/6dbd4c25-3694-48f9-bec6-4e058e395c33)
 - [A+](https://www.credly.com/badges/1bad2df8-ed9d-4af9-a33b-0cb708209f55)
+- [Network+](https://www.credly.com/earner/earned/badge/38f329b3-b669-4661-b2d8-561949e6c390)
 
 
 <h2> 🤳 Connect with me:</h2>
