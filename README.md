@@ -1,4 +1,4 @@
-<h1>Hi, I'm LaRon! <br/><a href="https://github.com/joshmadakor1">Secure Infrastructure Specialist </a>, <a href="https://www.linkedin.com/in/laron-strong-a70249178/">Security+ for baseline cybersecurity skills</a>, <a href="https://www.linkedin.com/in/laron-strong-a70249178/">and A+ for End-point Mangagement and technical support</a></h1>
+<h1>Hi, I'm LaRon! <br/><a href="https://github.com/TronOSUpgrd">IT Secure Infrastructure Specialist </a>, <a href="https://www.linkedin.com/in/laron-strong-a70249178/">with baseline cybersecurity skills</a>, <a href="https://www.linkedin.com/in/laron-strong-a70249178/">Network Operations/Security, End-point Mangagement and technical support</a></h1>
 
 <h2>👨‍💻 My IT Projects:</h2>
 
